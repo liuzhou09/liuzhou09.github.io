@@ -19,14 +19,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Liu Zhou is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the IFSC Group. His team focuses on <strong>UAV</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
+<!-- Liu Zhou is a Research Scientist at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he/she is a core member of the Ubiquitous Sensing and Intelligent Inspection Team, focusing on Intelligent Flight and Safety Control. His/her research spans autonomous perception, motion planning, and safety control of unmanned systems, with specific expertise in fully actuated UAVs and air-ground dual-modal UAVs.
 
-&emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 40 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
+He/she received his/her Ph.D. in Mechanical Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, supervised by Prof. Lilong Cai. Prior to this, he/she obtained an M.S. in Mechanical Engineering from Central South University in 2018 (advised by Prof. Hanxiong Li, IEEE Fellow) and a B.S. from China University of Mining and Technology in 2015. Before joining Guangming Laboratory, he/she worked as a Postdoctoral Fellow at the Department of Mechanical and Aerospace Engineering at HKUST, and also gained industrial experience as a Software Development Engineer at Huawei 2012 Labs (HiSilicon).
 
+His/her pioneering work in "autonomous multi-rotor UAVs," "fully actuated UAVs," and "air-ground dual-modal UAVs" has been widely featured by mainstream media such as Shenzhen Economic Daily and Bao'an Daily. He/she has been recognized with numerous accolades, including the Shenzhen Pengcheng Peacock Class C Talent and the Guangming Laboratory "Genius Rising Star". This combined academic and industrial background drives his/her commitment to bridging the gap between robotics research breakthroughs and real-world deployment.
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round</strong>. If you are passionate about AI and eager to engage in cutting-edge research, please feel free to contact me by email.</span>
+Research interns are welcome to apply year-round. If you are passionate about robotics, UAVs, and eager to engage in cutting-edge research, please feel free to contact me by email.
+长期招募研究型实习生。 如果您对机器人、无人机控制等方向充满热情，并渴望投身前沿研究，欢迎随时通过邮箱与我联系。
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期招募研究型实习生</strong>。 如果您对人工智能充满热情，并渴望投身前沿研究，欢迎随时邮箱与我联系。</span>
+Education
+Ph.D. in Mechanical Engineering | Jan. 2019 - Nov. 2022 Hong Kong University of Science and Technology (HKUST)
+Advisor: Prof. Lilong Cai
+
+M.S. in Mechanical Engineering | Sep. 2015 - Jun. 2018
+Central South University (CSU)
+Advisor: Prof. Hanxiong Li (IEEE Fellow)
+
+B.S. in Mechanical Engineering | Sep. 2011 - Jun. 2015
+China University of Mining and Technology (CUMT)
+Advisor: Prof. Xinhua Liu
+
+Work Experience
+Research Scientist | Nov. 2023 - Present
+Guangming Laboratory
+Ubiquitous Sensing and Intelligent Inspection Team / Intelligent Flight and Safety Control
+
+Postdoctoral Fellow | Oct. 2022 - Oct. 2023
+Hong Kong University of Science and Technology (HKUST)
+Department of Mechanical and Aerospace Engineering
+
+Software Development Engineer | Aug. 2018 - Dec. 2018
+Huawei Technologies Co., Ltd.
+2012 Labs - HiSilicon Optoelectronics
+
+Honors & Awards
+Shenzhen Pengcheng Peacock Class C Talent (深圳市鹏城孔雀C类人才)
+
+Guangming Laboratory "Genius Rising Star" (光明实验室“天才新星”)
+
+National Scholarship for Graduate Students (研究生国家奖学金)
+
+HKUST Postgraduate Scholarship (香港科技大学研究生奖学金)
+
+Professional & Social Service
+Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
+
+Committee Member: CPPCC of Guangming District, Shenzhen (深圳市光明区政协委员).
+
+Committee Member: Science and Technology Committee & Youth League Committee of Guangming District, Shenzhen (深圳市光明区科技委员，团委委员).
+
+Vice Principal (Ideological and Political Education): Shenzhen University Affiliated Experimental Middle School (深圳大学附属实验中学思政副校长).
+
+Member: Guangdong Young Scientists Association (广东省青年科学家协会会员).</span>
 
 <!-- Fei Ma is a Researcher, Principal Investigator, and Master's Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory, where he leads the Media Intelligence team. He received his Ph.D. degree in Information and Communication Engineering from Tsinghua University and his B.S. degree in Communication Engineering from the University of Electronic Science and Technology of China (UESTC). His research lies at the intersection of <strong>generative artificial intelligence</strong> and <strong>affective computing</strong>. He has published over 40 papers in top journals such as TPAMI (IF: 18.6), Information Fusion (IF: 15.5), TAFFC (IF: 9.8), TMC (IF: 9.2), TIE (IF: 7.2), and CCF Tier-A conferences (NeurIPS, ICLR, ACL, AAAI, IJCAI, ACM MM). He has filed or been granted over 40 Chinese invention patents. He received the Outstanding Scientific Research Achievement Innovation Award at the China Hi-Tech Fair, and his self-developed AIGC short film "Chang'e Flying to the Moon" was featured on CCTV Video, CCTV.com, and CNR.com, gaining widespread attention. -->
 
