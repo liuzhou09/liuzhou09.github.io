@@ -30,7 +30,7 @@ redirect_from:
 
 <!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <color: rgb(255, 0, 0)>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</color: rgb(255, 0, 0)>, and <strong>Affective Computing</strong>. -->
 
-<span class='anchor' id='-xl'></span>
+<!-- <span class='anchor' id='-xl'></span> -->
 
 <span class='anchor' id='-pub'></span>
 

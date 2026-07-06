@@ -1,7 +1,7 @@
 # Site Settings
 title                    : "Zhou Liu (刘洲)"
 description              : 
-repository               : "feima09/feima09.github.io"
+repository               : "liuzhou09/liuzhou09.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -19,7 +19,7 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  email            : "liuzhou [at] gml.ac.cn"
+  email            : "liuzhou@gml.ac.cn"
   researchgate     :
   uri              : 
   bitbucket        :

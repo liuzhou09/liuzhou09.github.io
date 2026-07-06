@@ -18,11 +18,11 @@ main:
   - title: "Membership"
     url: "/#-membership"
 
-  - title: "Invited Talks"
-    url: "/#-ryjx"
+  # - title: "Invited Talks"
+  #   url: "/#-ryjx"
 
-  - title: "Academic Services"
-    url: "/#-review"
+  # - title: "Academic Services"
+  #   url: "/#-review"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  # - title: "Teaching"
+  #   url: "/#-teaching"
