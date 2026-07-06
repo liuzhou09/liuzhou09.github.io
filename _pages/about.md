@@ -19,61 +19,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-<!-- Liu Zhou is a Research Scientist at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he/she is a core member of the Ubiquitous Sensing and Intelligent Inspection Team, focusing on Intelligent Flight and Safety Control. His/her research spans autonomous perception, motion planning, and safety control of unmanned systems, with specific expertise in fully actuated UAVs and air-ground dual-modal UAVs.  -->
+Liu Zhou is a Research Scientist at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he/she is a core member of the Ubiquitous Sensing and Intelligent Inspection Team, focusing on Intelligent Flight and Safety Control. His/her research spans autonomous perception, motion planning, and safety control of unmanned systems, with specific expertise in fully actuated UAVs and air-ground dual-modal UAVs.  He received his Ph.D. in Mechanical Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, supervised by Prof. Lilong Cai. Prior to this, he/she obtained an M.S. in Mechanical Engineering from Central South University in 2018 (advised by Prof. Hanxiong Li, IEEE Fellow) and a B.S. from China University of Mining and Technology in 2015. Before joining Guangming Laboratory, he/she worked as a Postdoctoral Fellow at the Department of Mechanical and Aerospace Engineering at HKUST, and also gained industrial experience as a Software Development Engineer at Huawei 2012 Labs (HiSilicon).
 
-<!-- &emsp;&emsp; He/she received his/her Ph.D. in Mechanical Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, supervised by Prof. Lilong Cai. Prior to this, he/she obtained an M.S. in Mechanical Engineering from Central South University in 2018 (advised by Prof. Hanxiong Li, IEEE Fellow) and a B.S. from China University of Mining and Technology in 2015. Before joining Guangming Laboratory, he/she worked as a Postdoctoral Fellow at the Department of Mechanical and Aerospace Engineering at HKUST, and also gained industrial experience as a Software Development Engineer at Huawei 2012 Labs (HiSilicon).-->
-
-<!-- His/her pioneering work in "autonomous multi-rotor UAVs," "fully actuated UAVs," and "air-ground dual-modal UAVs" has been widely featured by mainstream media such as Shenzhen Economic Daily and Bao'an Daily. He/she has been recognized with numerous accolades, including the Shenzhen Pengcheng Peacock Class C Talent and the Guangming Laboratory "Genius Rising Star". This combined academic and industrial background drives his/her commitment to bridging the gap between robotics research breakthroughs and real-world deployment. -->
+His/her pioneering work in "autonomous multi-rotor UAVs," "fully actuated UAVs," and "air-ground dual-modal UAVs" has been widely featured by mainstream media such as Shenzhen Economic Daily and Bao'an Daily. He/she has been recognized with numerous accolades, including the Shenzhen Pengcheng Peacock Class C Talent and the Guangming Laboratory "Genius Rising Star". This combined academic and industrial background drives his/her commitment to bridging the gap between robotics research breakthroughs and real-world deployment. 
 
 Research interns are welcome to apply year-round. If you are passionate about robotics, UAVs, and eager to engage in cutting-edge research, please feel free to contact me by email.
 长期招募研究型实习生。 如果您对机器人、无人机控制等方向充满热情，并渴望投身前沿研究，欢迎随时通过邮箱与我联系。
 
-Education
-Ph.D. in Mechanical Engineering | Jan. 2019 - Nov. 2022 Hong Kong University of Science and Technology (HKUST)
-Advisor: Prof. Lilong Cai
 
-M.S. in Mechanical Engineering | Sep. 2015 - Jun. 2018
-Central South University (CSU)
-Advisor: Prof. Hanxiong Li (IEEE Fellow)
+# Honors & Awards
+-Shenzhen Pengcheng Peacock Class C Talent (深圳市鹏城孔雀C类人才)
+-Guangming Laboratory "Genius Rising Star" (光明实验室“天才新星”)
+-National Scholarship for Graduate Students (研究生国家奖学金)
+-HKUST Postgraduate Scholarship (香港科技大学研究生奖学金)
 
-B.S. in Mechanical Engineering | Sep. 2011 - Jun. 2015
-China University of Mining and Technology (CUMT)
-Advisor: Prof. Xinhua Liu
+#Professional & Social Service
+-Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
+-Committee Member: CPPCC of Guangming District, Shenzhen (深圳市光明区政协委员).
+-Committee Member: Science and Technology Committee & Youth League Committee of Guangming District, Shenzhen (深圳市光明区科技委员，团委委员).
+-Vice Principal (Ideological and Political Education): Shenzhen University Affiliated Experimental Middle School (深圳大学附属实验中学思政副校长).
+-Member: Guangdong Young Scientists Association (广东省青年科学家协会会员).
 
-Work Experience
-Research Scientist | Nov. 2023 - Present
-Guangming Laboratory
-Ubiquitous Sensing and Intelligent Inspection Team / Intelligent Flight and Safety Control
 
-Postdoctoral Fellow | Oct. 2022 - Oct. 2023
-Hong Kong University of Science and Technology (HKUST)
-Department of Mechanical and Aerospace Engineering
-
-Software Development Engineer | Aug. 2018 - Dec. 2018
-Huawei Technologies Co., Ltd.
-2012 Labs - HiSilicon Optoelectronics
-
-Honors & Awards
-Shenzhen Pengcheng Peacock Class C Talent (深圳市鹏城孔雀C类人才)
-
-Guangming Laboratory "Genius Rising Star" (光明实验室“天才新星”)
-
-National Scholarship for Graduate Students (研究生国家奖学金)
-
-HKUST Postgraduate Scholarship (香港科技大学研究生奖学金)
-
-Professional & Social Service
-Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
-
-Committee Member: CPPCC of Guangming District, Shenzhen (深圳市光明区政协委员).
-
-Committee Member: Science and Technology Committee & Youth League Committee of Guangming District, Shenzhen (深圳市光明区科技委员，团委委员).
-
-Vice Principal (Ideological and Political Education): Shenzhen University Affiliated Experimental Middle School (深圳大学附属实验中学思政副校长).
-
-Member: Guangdong Young Scientists Association (广东省青年科学家协会会员).</span>
-
-<!-- Fei Ma is a Researcher, Principal Investigator, and Master's Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory, where he leads the Media Intelligence team. He received his Ph.D. degree in Information and Communication Engineering from Tsinghua University and his B.S. degree in Communication Engineering from the University of Electronic Science and Technology of China (UESTC). His research lies at the intersection of <strong>generative artificial intelligence</strong> and <strong>affective computing</strong>. He has published over 40 papers in top journals such as TPAMI (IF: 18.6), Information Fusion (IF: 15.5), TAFFC (IF: 9.8), TMC (IF: 9.2), TIE (IF: 7.2), and CCF Tier-A conferences (NeurIPS, ICLR, ACL, AAAI, IJCAI, ACM MM). He has filed or been granted over 40 Chinese invention patents. He received the Outstanding Scientific Research Achievement Innovation Award at the China Hi-Tech Fair, and his self-developed AIGC short film "Chang'e Flying to the Moon" was featured on CCTV Video, CCTV.com, and CNR.com, gaining widespread attention. -->
 
 <!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <strong>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</strong>, and <strong>Affective Computing</strong>. -->
 
@@ -139,102 +106,34 @@ Member: Guangdong Young Scientists Association (广东省青年科学家协会�
 
 <!-- *  \* represents the first author, # represents the corresponding author. -->
 
-* For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>** 
 
-- [13] S Yang, W Yu, S Chen, <strong>F Ma</strong>, Z Liu, Q Li. <strong>A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot</strong>. IEEE Transactions on Intelligent Transportation Systems, 2026. 
+- [1] Liu, Z., & Cai, L. (2023). Simultaneous Planning and Execution for Safe Flight of Quadrotors suffering One Rotor Loss and Disturbance. IEEE Transactions on Aerospace and Electronic Systems, 59(5), 5731–5747.  (中科院二区,第一作者)
 
-- [12] Y Wang, H Yu, J Xu, <strong>F Ma</strong>, H Zhang, T Feng, Z Zhang, S Huang, D Sun, X Zhang. <strong>VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion</strong>. Transactions on Machine Learning Research, 2026. 
+- [2] Liu, Z., & Cai, L. (2023). Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance. IEEE Transactions on Control Systems Technology, 31(6), 2644–2659. (中科院二区, 第一作者)
 
-- [11] H Hu, Y Zhou, Q Wang, Y Zou, C Ma, J Si, J Liu, Z Yu, L Cui, <strong>F Ma</strong>, Q Tian. <strong>From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health</strong>. IEEE Transactions on Affective Computing, 2026. 
+- [3] Yang S., Yu W., Chen S., Ma F., Liu Z.*, and Li Q. (2026) A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot, Early Access, IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2026.3692811, (中科院一区TOP, 通讯作者)
 
-- [10] Y He, G Chen, F Yu, M Li, <strong>F Ma</strong>, G Zhou. <strong>Restoring neural radiance fields performance under adverse weather conditions</strong>. Engineering Applications of Artificial Intelligence, 2026. 
+- [4] Qu, Y., Liu, Z*., & Cai, L. (2024). High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor.  IEEE Transactions on Industrial Electronics, 72(3), 2948-2957. https://doi doi.org/10.1109/TIE.2024.3433421(中科院一区TOP, 通讯作者)
 
-- [9] D Luo, H Xu, <strong>F Ma</strong>, N Zhang, L Wang, K Wang. <strong>Design and analysis of step apodized coupling surface grating for narrow linewidth distributed feedback lasers with highly efficient optical field modulation</strong>. Journal of Optics, 2026. 
+- [5] Shen, R., Liu K., Zhang B., Yu W., Ma F., Qu Y., Liu Z*, Li Q (2025). Trajectory Tracking Control of Fully-Actuated Hexarotor UAVs with Adaptive Iterative Learning: From Theory to Application. IEEE Transactions on Industrial Electronics，73(5), 7273–7284. doi,  (中科院一区TOP, 通讯作者)
 
-- [8] R Shen, K Liu, B Zhang, W Yu, <strong>F Ma</strong>, Y Qu, Z Liu, Q Li. <strong>Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application</strong>. IEEE Transactions on Industrial Electronics, 2025. 
+- [6] Liu, Z., Liu, S., Qu, Y., & Cai, L. (2025). Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution. Control Engineering Practice, 162,  (中科院二区， 第一作者)
 
-- [7] S Chen, Z Wu, K Zhang, C Li, B Zhang, <strong>F Ma</strong>, F Yu, Q Li. <strong>Exploring embodied multimodal large models: Development, datasets, and future directions</strong>. Information Fusion, 2025. 
+- [7]  Zhou W., Yu W,. Wang J., Zhang B., Liu Z*., Li Q (2026). Adaptive Safety-Critical UAV Formation Control via Emergency-Level Artificial Potential Field. Aerospace Science and Technology, 112766,  (中科院一区TOP, 通讯作者)
 
-- [6] H Xue, X Luo, Z Hu, X Zhang, X Xiang, Y Dai, J Liu, Z Zhang, M Li, J Yang,  <strong>F Ma</strong>, Z Wu, C Yang, Z Dai, F Yu. <strong>Human Motion Video Generation: A Survey</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+- [8] Li Y., Yu W., Duan M., Zhang B., Liu Z*., & Li Q*. (2026). DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model. IEEE Robotics and Automation Letters, 11(7), 8471-8478, doi: 10.1109/LRA.2026.3698272. (中科院二区TOP, 共同通讯作者)
 
-- [5] H Hou, <strong>F Ma</strong>, Z Li, F Yu. <strong>VisualRWKV-HM: Enhancing Linear Visual-Language Models via Hybrid Mixing</strong>. Information Fusion, 2025. 
+- [9] Qu, Y., Liu, Z*., & Cai, L. (2025). “Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence,” in ISA Transactions, 2025, , (中科院二区TOP, 通讯作者)
 
-- [4] <strong>F Ma</strong>, Y Xie, Y Li, Y He, Y Zhang, H Ren, Z Liu, W Yao, F Ren, F Yu, S Ni. <strong>A Review of Human Emotion Synthesis Based on Generative Technology</strong>. IEEE Transactions on Affective Computing, 2025. 
+- [10] Liu, Z., & Cai, L. (2022). Large-angle and High-speed Trajectory Tracking Control of a Quadrotor UAV based on Reachability. 2022 International Conference on Robotics and Automation (ICRA), 1983–1988.  (CSRANKING, 第一作者)
 
-- [3] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+- [11] Li, Y#., Liu, Z#., Yu, W., Lu, Z., Wang, C., Yu, F., & Li, Q*. (2025). A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation. IEEE/RSJ International Conference on Intelligent Robots and Systems（IROS）(CSRANKING, 共同一作)
 
-- [2] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
-<!-- [2] C. Wang, H. Yu, X. Li, <strong>F. Ma</strong>, X. Wang, T. Taleb, V. Leung. Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation. IEEE Transactions on Mobile Computing, 2024. (IF: 7.7) -->
-<!-- [1] Y. Liu, H. Hou, <strong>F. Ma #</strong>, S. Ni, F. Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2024. (IF: 3.2) -->
+- [12] Yang, S.; Yu, W.; Liu, Z*. Ma,F. (2024), A Robust Hybrid Iterative Learning Formation Strategy for Multi-Unmanned Aerial Vehicle Systems with Multi-Operating Modes. Drones, , 8, 406. ；(中科院二区，通讯作者)
 
-- [1] C Wang, H Yu, X Li, <strong>F Ma</strong>, X Wang, T Taleb, VCM Leung. <strong>Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation</strong>. IEEE Transactions on Mobile Computing, 2024.
-
-
-### **<span style="font-size: 1.2em; color: #2E86C1;">Conference Papers</span>** 
-
-- [30] S Chen, Y Chen, Y Guan, Z Cheng, Z Zhang, S Qin, B Xia, J Li, W Yang, <strong>F Ma</strong>. <strong>Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding</strong>. ECCV 2026. 
-
-- [29] C Guo, X Mo, Y Nie, <strong>F Ma</strong>, X Xu, C Long. <strong>TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding</strong>. ECCV 2026. 
-
-- [28] Z Peng, E Yang, Y Cheng, H Yuan, <strong>F Ma</strong>, X Cao, L Shen. <strong>MoMCE: Mixture of Modality and Cue Experts for Multimodal Deception Detection</strong>. ECCV 2026. 
-
-- [27] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao, L Shen. <strong>SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection</strong>. ICML 2026. 
-
-- [26] H Ren, <strong>F Ma</strong>, X Lin, Y Fang, H Huang, Y Zhou, Y Huang, H Fu, Z Yang, Y Jiang, X Wu, B Cheng. <strong>Frequency-aware event cloud network</strong>. ICML 2026. 
-
-- [25] X Li, D Yin, Y Xie, G Li, Z Cheng, <strong>F Ma</strong>. <strong>ViSA-Gait: Leveraging Vision Foundation Models for Semantic Anchored Gait Recognition</strong>. IJCAI 2026. 
-
-- [24]  M Yan, Y Shao, Y Pan, S Chen, H Pei, H Tang, F Ma, J Guo, N Sebe. <strong>Cross Domain Test Time Scaling: Scale knowledge and reasoning on cross domains</strong>. IJCAI 2026. 
-
-- [23] J Chen, K Gao, Y Cui, M Sun, M Chen, S Wang, X Long, <strong>F Ma</strong>, Q Tian, R Huang, H Zhao. <strong>LottieGPT: Tokenizing Vector Animation for Autoregressive Generation</strong>. CVPR 2026. 
-
-- [22] H Chang, X Xu, W Liu, J Wu, K Jiang, <strong>F Ma</strong>, Q Tian. <strong>TextOVSR: Text-Guided Real-World Opera Video Super-Resolution</strong>. CVPR 2026. 
-
-- [21] C Guo, Y He, Y Nie, <strong>F Ma</strong>, X Xu, C Long. <strong>T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding</strong>. CVPR 2026. 
-
-- [20] Z Chen, H Lin, Y Nie, <strong>F Ma</strong>, X Xu, F Yu, C Long. <strong>Invert4TVG: A Temporal Video Grounding Framework with Inversion Tasks Preserving Action Understanding Ability</strong>. ICLR 2026. 
-
-- [19] Y Huang, <strong>F Ma</strong>, Y Shao, J Guo, Z Yu, L Cui, Q Tian. <strong>Nuwa: Mending the Spatial Integrity Torn by VLM Token Pruning</strong>. ICLR 2026. 
-
-- [18] Z Lian, L Sun, L Chen, H Chen, Z Cheng, F Zhang, Z Jia, Z Ma, <strong>F Ma</strong>, X Peng, J Tao. <strong>EmoPrefer: Can Large Language Models Understand Human Emotion Preferences</strong>？ ICLR 2026. 
-
-- [17] S Chen, T Zhao, Y Bin, <strong>F Ma</strong>, W Shao, Z Wang. <strong>D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies</strong>. AAAI 2026. 
-
-- [16] J Jiang, Y Chen, P Chen, K Liu, J Zhou, Z Zhu, H Hu, <strong>F Ma</strong>, Q Tian, C Wu. <strong>A Principle-Driven Adaptive Policy for Group Cognitive Stimulation Dialogue for Elderly with Cognitive Impairment</strong>. AAAI 2026. 
-
-- [15] Y Xie, R Min, Z Qin, <strong>F Ma</strong>, L Shen, F Yu, X Cao. <strong>RoMa: A Robust Model Watermarking Scheme for Protecting IP in Diffusion Models</strong>. NeurIPS 2025. 
-
-- [14] Y Xie, M Li, S Li, X Li, G Chen, <strong>F Ma</strong>, F Yu, W Ding. <strong>Universal Visuo-Tactile Video Understanding for Embodied Interaction</strong>. NeurIPS 2025. 
-
-- [13] H Wang, Q Li, L Chen, H Kang, <strong>F Ma</strong>, Y Jiang. <strong>HoloTrace: LLM-based Bidirectional Causal Knowledge Graph for Edge-Cloud Video Anomaly Detection</strong>. ACM MM 2025. 
-
-- [12] Z Guo, Y Xie, W Xie, P Huang, C Wang, <strong>F Ma</strong>, F Yu. <strong>GaussianPU: Color Point Cloud Upsampling via 3D Gaussian Splatting</strong>. IROS 2025. 
-
-- [11] Y Xie, B Ou, <strong>F Ma</strong>, Y Liu. <strong>Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation</strong>. IROS 2025. 
-
-- [10] H Xue, Z Zhang, M Li, Z Dai, F Yu, <strong>F Ma</strong>, Z Wu. <strong>VideoHumanMIB: Unlocking Appearance Decoupling for Video Human Motion In-betweening</strong>. IJCAI 2025. 
-
-- [9] W Feng, Y Zhu, R Zhang, C Wang, <strong>F Ma</strong>, X Wang, X Li. <strong>Active Multimodal Distillation for Few-shot Action Recognition</strong>. IJCAI 2025. 
-
-- [8] G Chen, Y He, M Yu, F Yu, G Xu, <strong>F Ma</strong>, M Li, G Zhou. <strong>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</strong>. IJCAI 2025.
-
-- [7] C Zhang, J Peng, Z Wang, Y Lai, H Sun, H Chang, <strong>F Ma</strong>, W Yu. <strong>VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism</strong>. ACL 2025.
-
-- [6] Y Xie, T Feng, X Zhang, X Luo, Z Guo, W Yu, H Chang, <strong>F Ma</strong>, F Yu. <strong>PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis</strong>. AAAI 2025. 
-
-- [5] X Xiang, Z Dai, H Xue, D Wang, M Li, Y Yue, <strong>F Ma</strong>, W Yu, H Chang, F Yu. <strong>ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters</strong>. AAAI 2025. 
-
-- [4] L Wang, S Shi, <strong>F Ma</strong>, F Yu, P Li, Y He. <strong>Subgraph Invariant Learning towards Large-scale Graph Node Classification</strong>. AAAI 2025. 
-
-- [3] Z Zhong, Y He, P Li, F Yu, <strong>F Ma</strong>. <strong>A Language-Driven Navigation Strategy Integrating Semantic Maps and Large Language Models</strong>. IROS 2024.  
-
-- [2] L Xiong, X Cheng, J Tan, X Wu, X Li, L Zhu, <strong>F Ma</strong>, M Li, H Xu, Z Hu. <strong>SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing</strong>. ACM MM 2024. 
-
-- [1] X Luo, X Zhang, Y Xie, X Tong, W Yu, H Chang, <strong>F Ma</strong>, F Yu. <strong>CodeSwap: Symmetrically Face Swapping Based on Prior Codebook</strong>. ACM MM 2024.
-
-
+- [13] Ma, F; Xie, Y; Li, Yukan; He, Y; Zhang, Y; Ren, H; Liu, Z, et al .(2025). A review of human emotion synthesis based on generative technology, IEEE Transactions on Affective Computing  vol. 16, no. 4, pp. 2579-2598, 
 
 <!-- ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents</span>** 
 1) <strong>马飞</strong>*，徐洪波，谢长岭，卓一瑶，罗奕明，李阳，纪奕泓。一种基于多模态大模型的跌倒检测方法、系统、终端及存储介质。202510512556.7
