@@ -96,7 +96,7 @@ redirect_from:
 
 <span class='anchor' id='-hy'></span>
 
-# Honors & Awards
+# Honors &amp; Awards
 - Shenzhen Pengcheng Peacock Class C Talent (深圳市鹏城孔雀C类人才)
 
 - Guangming Laboratory "Genius Rising Star" (光明实验室“天才新星”)
