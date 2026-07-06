@@ -1,14 +1,14 @@
-# feima09.github.io
+# liuzhou09.github.io
 
-马飞老师个人学术主页，基于 Jekyll 搭建，部署在 GitHub Pages。
+刘洲老师个人学术主页，基于 Jekyll 搭建，部署在 GitHub Pages。
 
 ## 快速开始
 
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/feima09/feima09.github.io.git
-cd feima09.github.io
+git clone https://github.com/lliuzhou09/liuzhou09.github.io.git
+cd liuzhou09.github.io
 ```
 
 ### 2. 拉取最新代码
