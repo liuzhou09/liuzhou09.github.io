@@ -94,6 +94,8 @@ redirect_from:
 
 15) 彭亮，<strong>马飞</strong>*，李明磊，怀宝兴。一种虚拟对象的动作图像数据生成方法、装置及相关设备。202310489294.8 -->
 
+<span class='anchor' id='-hy'></span>
+
 # Honors & Awards
 - Shenzhen Pengcheng Peacock Class C Talent (深圳市鹏城孔雀C类人才)
 
@@ -103,13 +105,15 @@ redirect_from:
 
 - HKUST Postgraduate Scholarship (香港科技大学研究生奖学金)
 
-# membership
--Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
+<span class='anchor' id='-membership'></span>
 
--Committee Member: CPPCC of Guangming District, Shenzhen (深圳市光明区政协委员).
+# Membership
+- Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
 
--Committee Member: Science and Technology Committee & Youth League Committee of Guangming District, Shenzhen (深圳市光明区科技委员，团委委员).
+- Committee Member: CPPCC of Guangming District, Shenzhen (深圳市光明区政协委员).
 
--Vice Principal (Ideological and Political Education): Shenzhen University Affiliated Experimental Middle School (深圳大学附属实验中学思政副校长).
+- Committee Member: Science and Technology Committee & Youth League Committee of Guangming District, Shenzhen (深圳市光明区科技委员，团委委员).
 
--Member: Guangdong Young Scientists Association (广东省青年科学家协会会员).
+- Vice Principal (Ideological and Political Education): Shenzhen University Affiliated Experimental Middle School (深圳大学附属实验中学思政副校长).
+
+- Member: Guangdong Young Scientists Association (广东省青年科学家协会会员).
