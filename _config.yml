@@ -28,15 +28,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GML-IFSCGroup"
+  github           :# "GML-IFSCGroup"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/22/1199-6.html"
-  orcid            : "https://orcid.org/0009-0002-5388-9125"
+  orcid            : "https://orcid.org/0000-0001-8923-146X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
