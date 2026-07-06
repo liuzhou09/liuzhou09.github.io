@@ -1,5 +1,5 @@
 # Site Settings
-title                    : "Fei Ma (马飞)"
+title                    : "Zhou Liu (刘洲)"
 description              : 
 repository               : "feima09/feima09.github.io"
 google_scholar_stats_use_cdn : false
@@ -13,14 +13,13 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 # Site Author
 author:
-  name             : "Fei Ma (马飞)"
-  avatar           : "images/mafei.png"
+  name             : "Zhou Liu (刘洲)"
+  avatar           : "images/liu zhou.png"
   bio              : "Guangming Laboratory"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "mafei [at] gml.ac.cn"
+  email            : "liuzhou [at] gml.ac.cn"
   researchgate     :
   uri              : 
   bitbucket        :
@@ -29,7 +28,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GML-MMGroup"
+  github           : "GML-IFSCGroup"
   google_plus      :
   keybase          :
   instagram        :
