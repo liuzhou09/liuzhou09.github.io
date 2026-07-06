@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group. His team focuses on <strong>human-centered multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
+&emsp;&emsp;Liu Zhou is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group. His team focuses on <strong>human-centered multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 40 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
