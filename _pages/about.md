@@ -104,7 +104,7 @@ Research interns are welcome to apply year-round. If you are passionate about ro
 
 -HKUST Postgraduate Scholarship (香港科技大学研究生奖学金)
 
-# Professional & Social Service
+# membership
 <!-- *  \* represents the first author, # represents the corresponding author. -->
 -Reviewer: IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Aerospace and Electronic Systems (TAES), ISA Transactions.
 
