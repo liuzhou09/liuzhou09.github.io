@@ -46,17 +46,17 @@ redirect_from:
 # Publications
   <!-- *  \* represents the first author, # represents the corresponding author. -->
 
-- [1] Liu, Z., & Cai, L. (2023). Simultaneous Planning and Execution for Safe Flight of Quadrotors suffering One Rotor Loss and Disturbance. IEEE Transactions on Aerospace and Electronic Systems, 59(5), 5731–5747.  
+- [1] Z. Liu and L. Cai, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
 
-- [2] Liu, Z., & Cai, L. (2023). Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance. IEEE Transactions on Control Systems Technology, 31(6), 2644–2659. 
+- [2] Z. Liu and L. Cai, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
 
-- [3] Yang S., Yu W., Chen S., Ma F., Liu Z.*, and Li Q. (2026) A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot, Early Access, IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2026.3692811.
+- [3] S. Yang, W. Yu, S. Chen, F. Ma, Z. Liu and Q. Li, "A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2026.3692811.
 
-- [4] Qu, Y., Liu, Z*., & Cai, L. (2024). High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor.  IEEE Transactions on Industrial Electronics, 72(3), 2948-2957. https://doi doi.org/10.1109/TIE.2024.3433421
+- [4] Y. Qu, Z. Liu and L. Cai, "High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor," in *IEEE Transactions on Industrial Electronics*, vol. 72, no. 3, pp. 2948-2957, March 2025, doi: 10.1109/TIE.2024.3433421.
 
-- [5] Shen, R., Liu K., Zhang B., Yu W., Ma F., Qu Y., Liu Z*, Li Q (2025). Trajectory Tracking Control of Fully-Actuated Hexarotor UAVs with Adaptive Iterative Learning: From Theory to Application. IEEE Transactions on Industrial Electronics，73(5), 7273–7284. 
+- [5] R. Shen et al., "Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application," in *IEEE Transactions on Industrial Electronics*, vol. 73, no. 5, pp. 7273-7284, May 2026, doi: 10.1109/TIE.2025.3639773.  
 
-- [6] Liu, Z., Liu, S., Qu, Y., & Cai, L. (2025). Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution. Control Engineering Practice, 162,  
+- [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, September 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
 
 - [7]  Zhou W., Yu W,. Wang J., Zhang B., Liu Z*., Li Q (2026). Adaptive Safety-Critical UAV Formation Control via Emergency-Level Artificial Potential Field. Aerospace Science and Technology, 112766, 
 
