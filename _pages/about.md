@@ -46,13 +46,13 @@ redirect_from:
 # Publications
   <!-- *  \* represents the first author, # represents the corresponding author. -->
 
-- [1] <strong>Z. Liu</strong> and L. Cai, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
+- [1] <strong>Z. Liu</strong> and L. Cai*, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
 
-- [2] Z. Liu and L. Cai, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
+- [2] <strong>Z. Liu</strong> and L. Cai*, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
 
-- [3] S. Yang, W. Yu, S. Chen, F. Ma, Z. Liu and Q. Li, "A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2026.3692811.
+- [3] S. Yang, W. Yu, S. Chen, F. Ma, <strong>Z. Liu*</strong> and Q. Li, "A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2026.3692811.
 
-- [4] Y. Qu, Z. Liu and L. Cai, "High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor," in *IEEE Transactions on Industrial Electronics*, vol. 72, no. 3, pp. 2948-2957, March 2025, doi: 10.1109/TIE.2024.3433421.
+- [4] Y. Qu, <strong>Z. Liu</strong> and L. Cai, "High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor," in *IEEE Transactions on Industrial Electronics*, vol. 72, no. 3, pp. 2948-2957, March 2025, doi: 10.1109/TIE.2024.3433421.
 
 - [5] R. Shen et al., "Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application," in *IEEE Transactions on Industrial Electronics*, vol. 73, no. 5, pp. 7273-7284, May 2026, doi: 10.1109/TIE.2025.3639773.  
 
