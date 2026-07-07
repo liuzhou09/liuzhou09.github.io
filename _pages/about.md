@@ -23,8 +23,17 @@ redirect_from:
 
 &emsp;&emsp;His pioneering work in "autonomous multi-rotor UAVs," "fully actuated UAVs," and "air-ground dual-modal UAVs" has been widely featured by mainstream media such as Shenzhen Economic Daily and Bao'an Daily. He has been recognized with numerous accolades, including the Shenzhen Pengcheng Peacock Class C Talent and the Guangming Laboratory "Genius Rising Star". This combined academic and industrial background drives his commitment to bridging the gap between robotics research breakthroughs and real-world deployment. 
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round. If you are passionate about robotics, UAVs, and eager to engage in cutting-edge research, please feel free to contact me by email.
-长期招募研究型实习生。 如果您对机器人、无人机控制等方向充满热情，并渴望投身前沿研究，欢迎随时通过邮箱与我联系。</strong></span>
+<p align="center">
+  <img src="images/exp.png" alt="Experiment Platform" style="max-width: 80%; height: auto;">
+</p>
+
+<p align="center">
+  <img src="images/uavs.png" alt="UAVs" style="max-width: 80%; height: auto;">
+</p>
+
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round. If you are passionate about robotics, UAVs, and eager to engage in cutting-edge research, please feel free to contact me by email.</strong></span>
+
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期招募研究型实习生。 如果您对机器人、无人机控制等方向充满热情，并渴望投身前沿研究，欢迎随时通过邮箱与我联系。</strong></span>
 
 <!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <strong>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</strong>, and <strong>Affective Computing</strong>. -->
 
