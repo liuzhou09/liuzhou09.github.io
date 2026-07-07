@@ -56,21 +56,21 @@ redirect_from:
 
 - [5] R. Shen et al., "Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application," in *IEEE Transactions on Industrial Electronics*, vol. 73, no. 5, pp. 7273-7284, May 2026, doi: 10.1109/TIE.2025.3639773.  
 
-- [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, September 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
+- [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, Sep. 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
 
-- [7]  Zhou W., Yu W,. Wang J., Zhang B., Liu Z*., Li Q (2026). Adaptive Safety-Critical UAV Formation Control via Emergency-Level Artificial Potential Field. Aerospace Science and Technology, 112766, 
+- [7] W. Zhou, W. Yu, J. Wang, B. Zhang, Z. Liu, and Q. Li, "Adaptive safety-critical UAV formation control via emergency-level artificial potential field," in *Aerospace Science and Technology*, vol. 177, pp. 112766, Oct. 2026， doi:https://doi.org/10.1016/j.ast.2026.112766
 
-- [8] Li Y., Yu W., Duan M., Zhang B., Liu Z*., & Li Q*. (2026). DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model. IEEE Robotics and Automation Letters, 11(7), 8471-8478, doi: 10.1109/LRA.2026.3698272. 
+- [8] Y. Li, W. Yu, M. Duan, B. Zhang, Z. Liu and Q. Li, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
 
-- [9] Qu, Y., Liu, Z*., & Cai, L. (2025). “Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence,” in ISA Transactions, 2025.
+- [9] Y. Qu, Z. Liu, and L. Cai, "Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence," *ISA Transactions*, vol. 163, pp. 162-171, Aug. 2025.
 
-- [10] Liu, Z., & Cai, L. (2022). Large-angle and High-speed Trajectory Tracking Control of a Quadrotor UAV based on Reachability. 2022 International Conference on Robotics and Automation (ICRA), 1983–1988.  
+- [10] Z. Liu and L. Cai, "Large-angle and High-speed Trajectory Tracking Control of a Quadrotor UAV based on Reachability," *2022 International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, USA, 2022, pp. 1983-1988, doi: 10.1109/ICRA46639.2022.9811879. 
 
-- [11] Li, Y#., Liu, Z#., Yu, W., Lu, Z., Wang, C., Yu, F., & Li, Q*. (2025). A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- [11] Y. Li et al., "A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 11165-11171, doi: 10.1109/IROS60139.2025.11247481.
 
-- [12] Yang, S.; Yu, W.; Liu, Z*. Ma,F. (2024), A Robust Hybrid Iterative Learning Formation Strategy for Multi-Unmanned Aerial Vehicle Systems with Multi-Operating Modes. Drones, 8, 406.
+- [12] S. Yang, W. Yu, Z. Liu, and F. Ma, "A robust hybrid iterative learning formation strategy for multi-unmanned aerial vehicle systems with multi-operating modes," *Drones*, vol. 8, no. 8, p. 406, Aug. 2024.
 
-- [13] Ma, F; Xie, Y; Li, Yukan; He, Y; Zhang, Y; Ren, H; Liu, Z, et al .(2025). A review of human emotion synthesis based on generative technology, IEEE Transactions on Affective Computing  vol. 16, no. 4, pp. 2579-2598.
+- [13] F. Ma et al., "A Review of Human Emotion Synthesis Based on Generative Technology," in *IEEE Transactions on Affective Computing*, vol. 16, no. 4, pp. 2579-2598, Oct.-Dec. 2025, doi: 10.1109/TAFFC.2025.3573878. 
 
 <!-- ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents</span>** 
 1) <strong>马飞</strong>*，徐洪波，谢长岭，卓一瑶，罗奕明，李阳，纪奕泓。一种基于多模态大模型的跌倒检测方法、系统、终端及存储介质。202510512556.7
