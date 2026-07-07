@@ -58,14 +58,9 @@ redirect_from:
 
 - [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, Sep. 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
 
-- [7] <li>
-  W. Zhou, W. Yu, J. Wang, B. Zhang, <strong>Z. Liu*</strong>, and Q. Li. 
-  <strong>"Adaptive safety-critical UAV formation control via emergency-level artificial potential field."</strong> 
-  <em>Aerospace Science and Technology</em>, vol. 177, p. 112766, Oct. 2026. 
-  [<a href="https://doi.org/10.1016/j.ast.2026.112766" target="_blank">DOI</a>]
-</li>
+- [7] W. Zhou, W. Yu, J. Wang, B. Zhang, Z. Liu, and Q. Li, "Adaptive safety-critical UAV formation control via emergency-level artificial potential field," in *Aerospace Science and Technology*, vol. 177, pp. 112766, Oct. 2026， doi: https://doi.org/10.1016/j.ast.2026.112766
 
-- [8] Y. Li, W. Yu, M. Duan, B. Zhang, Z. Liu and Q. Li, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
+- [8] Y. Li, W. Yu, M. Duan, B. Zhang, <strong>Z. Liu*<strong> and Q. Li, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
 
 - [9] Y. Qu, Z. Liu, and L. Cai, "Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence," *ISA Transactions*, vol. 163, pp. 162-171, Aug. 2025.
 
