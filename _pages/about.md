@@ -46,7 +46,7 @@ redirect_from:
 # Publications
   <!-- *  \* represents the first author, # represents the corresponding author. -->
 
-- [1] Z. Liu and L. Cai, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
+- [1] <strong>Z. Liu<strong> and L. Cai, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
 
 - [2] Z. Liu and L. Cai, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
 
@@ -58,7 +58,12 @@ redirect_from:
 
 - [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, Sep. 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
 
-- [7] W. Zhou, W. Yu, J. Wang, B. Zhang, Z. Liu, and Q. Li, "Adaptive safety-critical UAV formation control via emergency-level artificial potential field," in *Aerospace Science and Technology*, vol. 177, pp. 112766, Oct. 2026， doi: https://doi.org/10.1016/j.ast.2026.112766
+- [7] <li>
+  W. Zhou, W. Yu, J. Wang, B. Zhang, <strong>Z. Liu*</strong>, and Q. Li. 
+  <strong>"Adaptive safety-critical UAV formation control via emergency-level artificial potential field."</strong> 
+  <em>Aerospace Science and Technology</em>, vol. 177, p. 112766, Oct. 2026. 
+  [<a href="https://doi.org/10.1016/j.ast.2026.112766" target="_blank">DOI</a>]
+</li>
 
 - [8] Y. Li, W. Yu, M. Duan, B. Zhang, Z. Liu and Q. Li, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
 
