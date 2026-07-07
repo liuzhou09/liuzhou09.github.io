@@ -46,31 +46,31 @@ redirect_from:
 # Publications
   <!-- *  \* represents the first author, # represents the corresponding author. -->
 
-- [1] <strong>Z. Liu</strong> and L. Cai*, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
+- [1] <strong>Z. Liu</strong> and L. Cai, "Simultaneous Planning and Execution for Safe Flight of Quadrotors Suffering One Rotor Loss and Disturbance," in *IEEE Transactions on Aerospace and Electronic Systems*, vol. 59, no. 5, pp. 5731-5747, Oct. 2023, doi: 10.1109/TAES.2023.3265948.   
 
-- [2] <strong>Z. Liu</strong> and L. Cai*, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
+- [2] <strong>Z. Liu</strong> and L. Cai, "Simultaneous Planning and Execution for Quadrotors Flying Through a Narrow Gap Under Disturbance," in *IEEE Transactions on Control Systems Technology*, vol. 31, no. 6, pp. 2644-2659, Nov. 2023, doi: 10.1109/TCST.2023.3283446.  
 
-- [3] S. Yang, W. Yu, S. Chen, F. Ma, <strong>Z. Liu*</strong> and Q. Li, "A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2026.3692811.
+- [3] S. Yang, W. Yu, S. Chen, F. Ma, <strong>Z. Liu\*</strong> and Q. Li, "A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot," in *IEEE Transactions on Intelligent Transportation Systems*, doi: 10.1109/TITS.2026.3692811.
 
-- [4] Y. Qu, <strong>Z. Liu</strong> and L. Cai, "High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor," in *IEEE Transactions on Industrial Electronics*, vol. 72, no. 3, pp. 2948-2957, March 2025, doi: 10.1109/TIE.2024.3433421.
+- [4] Y. Qu, <strong>Z. Liu\*</strong> and L. Cai, "High-Order State-Filtering System Design and Its Application to Feedback Control of a Three-Phase BLDC Motor," in *IEEE Transactions on Industrial Electronics*, vol. 72, no. 3, pp. 2948-2957, March 2025, doi: 10.1109/TIE.2024.3433421.
 
-- [5] R. Shen et al., "Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application," in *IEEE Transactions on Industrial Electronics*, vol. 73, no. 5, pp. 7273-7284, May 2026, doi: 10.1109/TIE.2025.3639773.  
+- [5] R. Shen<sup>†</sup>, K. Liu<sup>†</sup>, B. Zhang, W. Yu, F. Ma, Y. Qu, <strong>Z. Liu*</strong>, and Q. Li, "Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application," in *IEEE Transactions on Industrial Electronics*, vol. 73, no. 5, pp. 7273-7284, May 2026, doi: 10.1109/TIE.2025.3639773.  
 
-- [6] Z. Liu, S. Liu, Y. Qu and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, Sep. 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
+- [6] <strong>Z. Liu</strong>, S. Liu, Y. Qu, and L. Cai. "Improvement of tracking control performance of quadrotors under Simultaneous Planning, Estimation, and Execution," in *Control Engineering Practice*, vol. 162, pp. 106360, Sep. 2025, doi: https://doi.org/10.1016/j.conengprac.2025.106360.
 
-- [7] W. Zhou, W. Yu, J. Wang, B. Zhang, Z. Liu, and Q. Li, "Adaptive safety-critical UAV formation control via emergency-level artificial potential field," in *Aerospace Science and Technology*, vol. 177, pp. 112766, Oct. 2026， doi: https://doi.org/10.1016/j.ast.2026.112766
+- [7] W. Zhou, W. Yu, J. Wang, B. Zhang, <strong>Z. Liu\*</strong>, and Q. Li, "Adaptive safety-critical UAV formation control via emergency-level artificial potential field," in *Aerospace Science and Technology*, vol. 177, pp. 112766, Oct. 2026， doi: https://doi.org/10.1016/j.ast.2026.112766
 
-- [8] Y. Li, W. Yu, M. Duan, B. Zhang, <strong>Z. Liu*</strong> and Q. Li, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
+- [8] Y. Li, W. Yu, M. Duan, B. Zhang, <strong>Z. Liu\*</strong> and <strong>Q. Li\*<strong>, "DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model," in *IEEE Robotics and Automation Letters*, vol. 11, no. 7, pp. 8471-8478, July 2026, doi: 10.1109/LRA.2026.3698272.  
 
-- [9] Y. Qu, Z. Liu, and L. Cai, "Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence," *ISA Transactions*, vol. 163, pp. 162-171, Aug. 2025.
+- [9] Y. Qu,  <strong>Z. Liu\*</strong> and L. Cai, "Simultaneous planning and executing (SPAE) control for a fourth-order underactuated inverted pendulum with double-layer asynchronous convergence," *ISA Transactions*, vol. 163, pp. 162-171, Aug. 2025.
 
-- [10] Z. Liu and L. Cai, "Large-angle and High-speed Trajectory Tracking Control of a Quadrotor UAV based on Reachability," *2022 International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, USA, 2022, pp. 1983-1988, doi: 10.1109/ICRA46639.2022.9811879. 
+- [10]  <strong>Z. Liu</strong> and L. Cai, "Large-angle and High-speed Trajectory Tracking Control of a Quadrotor UAV based on Reachability," *2022 International Conference on Robotics and Automation (ICRA)*, Philadelphia, PA, USA, 2022, pp. 1983-1988, doi: 10.1109/ICRA46639.2022.9811879. 
 
-- [11] Y. Li et al., "A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 11165-11171, doi: 10.1109/IROS60139.2025.11247481.
+- [11] Y. Li<sup>†</sup>, <strong>Z. Liu<sup>†</sup></strong>, W. Yu, Z. Lu, C. Wang, F. Yu, and Q. Li*, "A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 11165-11171, doi: 10.1109/IROS60139.2025.11247481.
 
-- [12] S. Yang, W. Yu, Z. Liu, and F. Ma, "A robust hybrid iterative learning formation strategy for multi-unmanned aerial vehicle systems with multi-operating modes," *Drones*, vol. 8, no. 8, p. 406, Aug. 2024.
+- [12] S. Yang, W. Yu, <strong>Z. Liu\*</strong> , and F. Ma, "A robust hybrid iterative learning formation strategy for multi-unmanned aerial vehicle systems with multi-operating modes," *Drones*, vol. 8, no. 8, p. 406, Aug. 2024.
 
-- [13] F. Ma et al., "A Review of Human Emotion Synthesis Based on Generative Technology," in *IEEE Transactions on Affective Computing*, vol. 16, no. 4, pp. 2579-2598, Oct.-Dec. 2025, doi: 10.1109/TAFFC.2025.3573878. 
+- [13] F. Ma, Y. Xie, Y. Li, Y. He, Y. Zhang, H. Ren, <strong>Z. Liu</strong>, <em>et al.</em>, "A Review of Human Emotion Synthesis Based on Generative Technology," in *IEEE Transactions on Affective Computing*, vol. 16, no. 4, pp. 2579-2598, Oct.-Dec. 2025, doi: 10.1109/TAFFC.2025.3573878. 
 
 <!-- ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents</span>** 
 1) <strong>马飞</strong>*，徐洪波，谢长岭，卓一瑶，罗奕明，李阳，纪奕泓。一种基于多模态大模型的跌倒检测方法、系统、终端及存储介质。202510512556.7
